@@ -1,0 +1,441 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+img{
+    cursor: pointer;
+}
+.containernav .navbar .kiri img{
+    width: 110px;
+}
+
+.containernav .navbar .kiri{
+    justify-content: center;
+    margin-left: 78px;
+}
+
+.containernav .navbar{
+    background-color: white;
+    height: 55px;
+}
+
+.navbar .kiri .text ul li{
+    display: inline-block;
+}
+
+.navbar .kiri .text a{
+    color: #262626;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 13px;
+    margin-left: 18px;
+    font-family: 'Segoe UI',SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-underline-offset: 4px;
+}
+
+.navbar .kiri .text a:hover{
+    text-decoration: underline;
+    text-decoration-thickness: 2px
+}
+
+.navbar .kiri .text{
+    margin-top: -47px;
+    margin-left: 79px;    
+}
+
+.navbar .kanan .log{
+    float: right;
+    margin-top: -44px;
+    margin-right: 73px;
+}
+
+.navbar .kanan .cart, .search{
+    margin-top: -44px;
+    float: right;
+}
+
+.navbar .kanan .cart{
+    margin-right: 120px;
+    margin-top: -42px;
+}
+
+.navbar .kanan .search{
+    margin-right: 158px;
+    margin-top: -38px;
+}
+.kanan .text a{
+    text-decoration: none;
+    float: right;
+    margin-top: -46px;
+    color: #262626;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 13px;
+    margin-right: 208px;
+    font-family: 'Segoe UI',SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-underline-offset: 3px;
+}
+.navbar .kanan .text a:hover{
+    text-decoration: underline;
+    text-decoration-thickness: 2px
+}
+.kanan .text a{
+    margin-top: -29px;
+}
+
+div.content1 .bgbing img{
+    width: 1340px;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 5px;
+    margin-top: 1px;
+}
+.bgbing{
+    display: flex;
+    justify-content: center;
+}
+
+.content1 .bgbing img{
+    display: flex;
+}
+
+.content1 .text h2{
+    margin-top: -388px;
+    margin-left: 120px;
+    color: white;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 29px;
+    cursor: pointer;
+}
+
+.content1 .desk1 p{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 120px;
+    margin-top: -9px;
+    line-height: 24px;
+}
+
+.content1 .button1 h4{
+    color: white;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    margin-left: 120px;
+    margin-top: 33px;
+}
+
+h4 span{
+    background-color: #0067b8;
+    padding-top: 9px;
+    padding-bottom: 10px;
+    padding-right: 14px;
+    padding-left: 14px;
+    border-radius: 3px;
+}
+
+h4 span:hover{
+    background-color: #005ca5;
+}
+
+.content1 .button1 h4:hover{
+    background-color: aqua;
+}
+.content1 .button1 a{
+    text-decoration: none;
+}
+
+.content2 .img{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.content2 .img img{
+    padding: 90px;
+    width: 40px;
+    margin-top: -10px;
+}
+.link{
+    display: flex;
+    justify-content: center;
+}
+
+.link a{
+    margin: 25px;
+    margin-top: -95px;
+    font-weight: 600;
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #0067b8;
+    font-size: 1rem;
+}
+
+.content3{
+    display: flex;
+    justify-content: center;
+    margin: 60px;
+    margin-top: 20px;
+}
+
+.content3 img{
+    margin: 10px;
+}
+
+.content3 h2, p, a{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: -5px;
+}
+.content3 a:hover{
+    text-decoration: underline;
+}
+.content3 a{
+    color: #0067b8;
+    font-weight: 500;
+    text-decoration: none;
+}
+.content3 h2{
+    font-weight: 500;
+}
+.text1, .text2, .text3, .text4, .linkc3{
+    margin-left: 10px;
+}
+
+.content3{
+    display: flex;
+    justify-content: center;
+}
+.content3 .img img{
+    width: 1220px;
+    margin-top: 50px;
+}
+
+.containc3{
+    margin-top: -390px;
+    margin-left: 120px;
+}
+
+.containc3 .titlec3 h2{
+    font-size: 30px;
+}
+
+.containc3 .titlec3 .deskc3{
+    margin-top: -10px;
+    line-height: 20px;
+}
+
+.containc3 .buttonc3 h4{
+    color: white;
+    font-weight: 600;
+    margin-top: 30px;
+}
+
+.content4{
+    display: flex;
+    justify-content: center;
+    margin: 60px;
+    margin-top: 20px;
+}
+
+.content4 img{
+    margin: 10px;
+}
+
+.content4 h2, p, a{
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-top: -5px;
+}
+.content4 a:hover{
+    text-decoration: underline;
+}
+.content4 a{
+    color: #0067b8;
+    font-weight: 500;
+    text-decoration: none;
+}
+.content4 h2{
+    font-weight: 500;
+}
+.text1, .text2, .text3, .text4, .linkc3{
+    margin-left: 10px;
+}
+
+.content4{
+    display: flex;
+    justify-content: center;
+}
+.conten4 .img img{
+    width: 1220px;
+    margin-top: 50px;
+}
+
+.content4{
+    margin-top: 390px;
+}
+
+.content4 .no1{
+    margin-top: -40px;
+}
+.content4 .no1 .titleh2{
+    margin-left: 10px;
+    font-size: 30px;
+}
+
+footer{
+    background-color: rgb(219, 219, 219);
+    height: 400px;
+}
+
+.footer{
+    justify-content: space-around;
+    display: flex;
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.Df1, .Df2, .Df3, .Df4, .Df5, .Df6{
+    width: 200px;
+}
+
+.footer h3{
+    font-size: 15px;
+}
+
+.footer ul{
+    padding: 10px;
+    list-style: none;
+}
+
+.footer ul li{
+    margin: 10px;
+    font-size: 12px;
+}
+
+.footer ul li a{
+    text-decoration: none;
+    color: #616161;
+}
+
+.footer ul li a:hover{
+    text-decoration: underline;
+}
+
+.footer2{
+    background-color: #616161;
+    justify-content: space-between;
+    margin-right: 20px;
+    display: flex;
+    height: 50px;
+    align-items: baseline;
+}
+
+.footer2 .Ef1 ul, .Ef2 ul{
+    list-style: none;
+}
+
+.footer2 .Ef1 ul, .Ef2 ul{
+    display: flex;
+    gap: 10px;
+}
+
+.footer2 .Ef1 ul li, .Ef2 ul li{
+    font-size: 12px;
+    margin-left: 15px;
+    list-style: none;
+}
+
+.footer2 .Ef1 ul li a, .Ef2 ul li a{
+    color: #f2f2f2;
+    text-decoration: none;
+}
+
+.footer2 ul li a:hover{
+    text-decoration: underline;
+}
+
+.footer2 .Ef1 ul li i, .Ef2 ul li i{
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+footer{
+    background-color: #f2f2f2;
+    height: 400px;
+}
+
+.footer{
+    justify-content: space-around;
+    display: flex;
+}
+
+.Df1, .Df2, .Df3, .Df4, .Df5, .Df6{
+    width: 200px;
+}
+
+.footer h3{
+    font-size: 15px;
+    font-weight: 600;
+    color: #616161 !important;
+}
+
+.footer ul{
+    padding: 10px;
+    list-style: none;
+}
+
+.footer ul li{
+    margin: 10px;
+    font-size: 12px;
+}
+
+.footer ul li a{
+    text-decoration: none;
+    color: #616161;
+}
+
+.footer ul li a:hover{
+    text-decoration: underline;
+}
+
+.footer2{
+    background-color: #f2f2f2;
+    justify-content: space-between;
+    margin-right: 20px;
+    display: flex;
+    height: 50px;
+    align-items: baseline;
+}
+
+.footer2 .Ef1 ul, .Ef2 ul{
+    list-style: none;
+}
+
+.footer2 .Ef1 ul, .Ef2 ul{
+    display: flex;
+    gap: 10px;
+}
+
+.footer2 .Ef1 ul li, .Ef2 ul li{
+    font-size: 12px;
+    margin-left: 15px;
+    list-style: none;
+    font-weight: 600;
+}
+
+.footer2 .Ef1 ul li a, .Ef2 ul li a{
+    color: #616161;
+    text-decoration: none;
+}
+
+.footer2 ul li a:hover{
+    text-decoration: underline;
+}
+
+.footer2 .Ef1 ul li i, .Ef2 ul li i{
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+.footer a{
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: lighter !important;
+}
